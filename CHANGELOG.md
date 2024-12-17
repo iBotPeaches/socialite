@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/socialite/compare/v5.16.0...5.x)
+## [Unreleased](https://github.com/laravel/socialite/compare/v5.16.1...5.x)
+
+## [v5.16.1](https://github.com/laravel/socialite/compare/v5.16.0...v5.16.1) - 2024-12-11
+
+* Update logo to support dark/light theme by [@milewski](https://github.com/milewski) in https://github.com/laravel/socialite/pull/717
+* [5.x] Support PHP 8.4 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/socialite/pull/722
 
 ## [v5.16.0](https://github.com/laravel/socialite/compare/v5.15.1...v5.16.0) - 2024-09-03
 
