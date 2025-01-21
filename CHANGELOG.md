@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/socialite/compare/v5.16.1...5.x)
+## [Unreleased](https://github.com/laravel/socialite/compare/v5.17.0...5.x)
+
+## [v5.17.0](https://github.com/laravel/socialite/compare/v5.16.1...v5.17.0) - 2025-01-17
+
+* Add "email_verified" to linkedin openid by [@aalyusuf](https://github.com/aalyusuf) in https://github.com/laravel/socialite/pull/725
+* [5.x] Adds support for configuring Access Scope for providers from configuration by [@TheAladeen](https://github.com/TheAladeen) in https://github.com/laravel/socialite/pull/728
+* [5.x] Added 2 additional tests for GitHub driver programmatic scope merging and overwriting by [@TheAladeen](https://github.com/TheAladeen) in https://github.com/laravel/socialite/pull/729
 
 ## [v5.16.1](https://github.com/laravel/socialite/compare/v5.16.0...v5.16.1) - 2024-12-11
 
