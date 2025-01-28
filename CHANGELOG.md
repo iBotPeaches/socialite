@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/socialite/compare/v5.17.0...5.x)
+## [Unreleased](https://github.com/laravel/socialite/compare/v5.17.1...5.x)
+
+## [v5.17.1](https://github.com/laravel/socialite/compare/v5.17.0...v5.17.1) - 2025-01-28
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/socialite/pull/730
 
 ## [v5.17.0](https://github.com/laravel/socialite/compare/v5.16.1...v5.17.0) - 2025-01-17
 
