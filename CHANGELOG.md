@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/socialite/compare/v5.17.1...5.x)
+## [Unreleased](https://github.com/laravel/socialite/compare/v5.18.0...5.x)
+
+## [v5.18.0](https://github.com/laravel/socialite/compare/v5.17.1...v5.18.0) - 2025-02-11
+
+* Update facade PHPDoc by [@osbre](https://github.com/osbre) in https://github.com/laravel/socialite/pull/731
+* Twitch by [@taylorotwell](https://github.com/taylorotwell) in https://github.com/laravel/socialite/pull/732
 
 ## [v5.17.1](https://github.com/laravel/socialite/compare/v5.17.0...v5.17.1) - 2025-01-28
 
